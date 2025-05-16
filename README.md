@@ -1,4 +1,4 @@
-# Teem-superstore
+# Teem-superstore sales performance
 
 ### Project Overview
 
@@ -36,7 +36,8 @@ This report was created as part of the entry task for the Tina Okonkwo Data Anal
   - Spotted seasonal spikes and low-performing months.
   - Calculated Month-on-Month (MoM) % growth
 
-    ![Teem Superstore Screenshot](https://raw.githubusercontent.com/Kaylaoflife/Teem-superstore-/main/Teem%201.png)
+   ![Teem Dashboard Screenshot](https://github.com/Kaylaoflife/Powerbi-project/blob/main/Dashboard%20presentation/Teem%201.png?raw=true)
+
 
 
 ### key Findings
