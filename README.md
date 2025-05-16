@@ -51,7 +51,8 @@ Sales Trends & Insights
 
 4. Furniture category is consistently unprofitable across multiple segments (Consumer, Corporate, Home Office) and regions (Central, East, South).
 
-![Teem Superstore View 2](https://raw.githubusercontent.com/Kaylaoflife/Teem-superstore-/main/Teem%202.png)
+![Teem Dashboard Screenshot 2](https://github.com/Kaylaoflife/Powerbi-project/blob/main/Dashboard%20presentation/Teem%202.png?raw=true)
+
 
 ### Recommendations
 
